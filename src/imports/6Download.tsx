@@ -109,7 +109,7 @@ export default function Component6Download() {
           </svg>
         </div>
       </div>
-      <div className="absolute box-border content-stretch flex gap-[10px] h-[58px] items-center justify-center left-[calc(50%+96px)] px-[74px] py-[17px] top-[311px] translate-x-[-50%] w-[174px]">
+      <div className="absolute box-border content-stretch flex gap-[10px] h-[58px] items-center justify-center left-[209px] px-[74px] py-[17px] top-[311px] w-[174px]">
         <div aria-hidden="true" className="absolute border border-[#ff9d47] border-solid inset-0 pointer-events-none" />
         <p className="font-['Italianno:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#ff9d47] text-[32px] text-nowrap whitespace-pre">Download</p>
       </div>

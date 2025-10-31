@@ -82,13 +82,13 @@ export default function Component3TakeUploadIfChoseClassicThemeOverlay() {
           </svg>
         </div>
       </div>
-      <div className="absolute box-border content-stretch flex gap-[10px] h-[58px] items-center justify-center left-[calc(50%+88px)] px-[74px] py-[17px] top-[303px] translate-x-[-50%] w-[174px]">
+      <div className="absolute box-border content-stretch flex gap-[10px] h-[58px] items-center justify-center left-[202px] px-[74px] py-[17px] top-[303px] w-[174px]">
         <div aria-hidden="true" className="absolute border border-[#ff9d47] border-solid inset-0 pointer-events-none" />
         <p className="font-['Italianno:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#ff9d47] text-[32px] text-nowrap whitespace-pre">Take photos</p>
       </div>
       <div className="absolute box-border content-stretch flex gap-[10px] h-[58px] items-center justify-center left-[202px] px-[74px] py-[17px] top-[377px] w-[174px]">
         <div aria-hidden="true" className="absolute border border-[#ff9d47] border-solid inset-0 pointer-events-none" />
-        <p className="font-['Italianno:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#ff9d47] text-[32px] text-nowrap whitespace-pre">Upload Photos</p>
+        <p className="font-['Italianno:Regular',sans-serif] leading-[24px] not-italic relative shrink-0 text-[#ff9d47] text-[32px] text-nowrap whitespace-pre">Upload photos</p>
       </div>
       <Frame13 />
       <div className="absolute h-0 left-[-5px] top-[140px] w-[408px]">

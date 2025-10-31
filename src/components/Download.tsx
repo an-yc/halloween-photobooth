@@ -104,7 +104,7 @@ export function Download({ photoStripUrl, onHome }: DownloadProps) {
 
       {/* Download button - positioned to match the design */}
       <div 
-        className="absolute left-[calc(50%+96px)] top-[311px] translate-x-[-50%] w-[174px] h-[58px] cursor-pointer z-10"
+        className="absolute left-[209px] top-[311px] w-[174px] h-[58px] cursor-pointer z-10"
         onClick={handleDownload}
       />
 

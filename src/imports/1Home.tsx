@@ -105,7 +105,7 @@ export default function Component1Home() {
           <circle cx="4" cy="4" fill="var(--fill-0, #FFC7C9)" id="Ellipse 5" r="4" />
         </svg>
       </div>
-      <div className="absolute h-[44px] left-[calc(50%-111.5px)] top-[366px] translate-x-[-50%] w-[119px]">
+      <div className="absolute h-[44px] left-[30px] top-[366px] w-[119px]">
         <div aria-hidden="true" className="absolute border border-[#ff9d47] border-solid inset-0 pointer-events-none" />
         <div className="flex flex-row items-center justify-center size-full">
           <div className="box-border content-stretch flex gap-[10px] h-[44px] items-center justify-center px-[74px] py-[17px] relative w-[119px]">

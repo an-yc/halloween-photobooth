@@ -4,6 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
+    base: '/halloween-photobooth/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],

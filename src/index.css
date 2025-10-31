@@ -840,20 +840,8 @@
     left: 387px;
   }
 
-  .left-\[calc\(50\%\+88px\)\] {
-    left: calc(50% + 88px);
-  }
-
-  .left-\[calc\(50\%\+96px\)\] {
-    left: calc(50% + 96px);
-  }
-
   .left-\[calc\(50\%-99px\)\] {
     left: calc(50% - 99px);
-  }
-
-  .left-\[calc\(50\%-111\.5px\)\] {
-    left: calc(50% - 111.5px);
   }
 
   .left-px {
