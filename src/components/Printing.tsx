@@ -159,7 +159,7 @@ export function Printing({ theme, photos, onComplete }: PrintingProps) {
     try {
       if (theme === 'classic') {
         // Use the NEW classic overlay PNG (NOT the old one)
-        const imgClassicOverlay = await import('figma:asset/74c41db96f34aac5a0b361abae6cf1ddf01ee7c3.png');
+        const imgClassicOverlay = await import('figma:asset/72aba72fe66deff282fe810caed31045e2fc20eb.png');
         const overlayImg = await loadImage(imgClassicOverlay.default);
         
         console.log('Classic overlay source:', overlayImg.width, 'x', overlayImg.height);

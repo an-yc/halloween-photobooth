@@ -55,7 +55,7 @@ export function TestPhotoStrip() {
     // Load and draw the overlay
     try {
       if (theme === 'classic') {
-        const imgClassicOverlay = await import('figma:asset/74c41db96f34aac5a0b361abae6cf1ddf01ee7c3.png');
+        const imgClassicOverlay = await import('figma:asset/72aba72fe66deff282fe810caed31045e2fc20eb.png');
         const overlayImg = await loadImage(imgClassicOverlay.default);
         
         console.log('Classic overlay dimensions:', overlayImg.width, 'x', overlayImg.height);
